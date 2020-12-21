@@ -1,0 +1,5 @@
+    <model name="colabottle">
+      <include>
+        <uri>model://Bottle-model-1-stl.</uri>
+	  <pose>1 0 0 0 0 0</pose>
+      </include> 
